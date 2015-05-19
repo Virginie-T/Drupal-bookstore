@@ -1,0 +1,9 @@
+name = Reviewer
+description = Review book
+core = 7.x
+package = Features
+version = 7.x-1.0
+project = reviewer
+dependencies[] = features
+features[features_api][] = api:2
+features[user_role][] = Reviewer
