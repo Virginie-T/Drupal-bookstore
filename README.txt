@@ -7,6 +7,7 @@ Database        username : name
 Maintenance     username : gigi
                 password : cafe
 
+Reviewer        password : review
 
 CONTENTS OF THIS FILE
 ---------------------
