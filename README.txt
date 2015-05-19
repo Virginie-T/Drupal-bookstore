@@ -1,3 +1,12 @@
+LOG IN INFO
+-----------
+
+Database        username : name
+                password : word
+
+Maintenance     username : gigi
+                password : cafe
+
 
 CONTENTS OF THIS FILE
 ---------------------
